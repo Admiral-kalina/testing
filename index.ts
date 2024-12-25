@@ -1,3 +1,4 @@
 let a = 1;
-const b = 22;
-const b23 = 22;
+let b = 2;
+let c = 3;
+const ab = {a:10}
